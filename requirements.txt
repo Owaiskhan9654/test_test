@@ -1,0 +1,5 @@
+opencv_python
+sahi
+torch
+ultralytics==8.0.4
+ultralyticsplus==0.0.3
